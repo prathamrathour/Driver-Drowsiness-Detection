@@ -47,7 +47,7 @@ S. No. | Model | Accuracy |
 3. Open up the terminal and type -
 
 ``` cmd
-$git clone https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning.git
-$cd Drowsiness-Detection-in-Drivers-using-Deep-Learning
+$git clone https://github.com/prathamrathour/Driver-Drowsiness-Detection.git
+$cd Driver-Drowsiness-Detection
 $jupyter notebook
 ```
